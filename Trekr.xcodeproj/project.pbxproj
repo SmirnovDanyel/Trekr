@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		093B85382A19204100428093 /* PhotosLibrary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotosLibrary.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		093B85382A19204100428093 /* Trekr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trekr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		093B853B2A19204100428093 /* TrekrApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrekrApp.swift; sourceTree = "<group>"; };
 		093B853D2A19204100428093 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		093B853F2A19204300428093 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 		093B85392A19204100428093 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				093B85382A19204100428093 /* PhotosLibrary.app */,
+				093B85382A19204100428093 /* Trekr.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -91,9 +91,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		093B85372A19204100428093 /* PhotosLibrary */ = {
+		093B85372A19204100428093 /* Trekr */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 093B85462A19204300428093 /* Build configuration list for PBXNativeTarget "PhotosLibrary" */;
+			buildConfigurationList = 093B85462A19204300428093 /* Build configuration list for PBXNativeTarget "Trekr" */;
 			buildPhases = (
 				093B85342A19204100428093 /* Sources */,
 				093B85352A19204100428093 /* Frameworks */,
@@ -103,9 +103,9 @@
 			);
 			dependencies = (
 			);
-			name = PhotosLibrary;
+			name = Trekr;
 			productName = Trekr;
-			productReference = 093B85382A19204100428093 /* PhotosLibrary.app */;
+			productReference = 093B85382A19204100428093 /* Trekr.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -123,7 +123,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 093B85332A19204100428093 /* Build configuration list for PBXProject "PhotosLibrary" */;
+			buildConfigurationList = 093B85332A19204100428093 /* Build configuration list for PBXProject "Trekr" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -136,7 +136,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				093B85372A19204100428093 /* PhotosLibrary */,
+				093B85372A19204100428093 /* Trekr */,
 			);
 		};
 /* End PBXProject section */
@@ -295,7 +295,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Trekr/Preview Content\"";
-				DEVELOPMENT_TEAM = QSJX298Z8Z;
+				DEVELOPMENT_TEAM = ZNNBFLWA3W;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -324,7 +324,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Trekr/Preview Content\"";
-				DEVELOPMENT_TEAM = QSJX298Z8Z;
+				DEVELOPMENT_TEAM = ZNNBFLWA3W;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -348,7 +348,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		093B85332A19204100428093 /* Build configuration list for PBXProject "PhotosLibrary" */ = {
+		093B85332A19204100428093 /* Build configuration list for PBXProject "Trekr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				093B85442A19204300428093 /* Debug */,
@@ -357,7 +357,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		093B85462A19204300428093 /* Build configuration list for PBXNativeTarget "PhotosLibrary" */ = {
+		093B85462A19204300428093 /* Build configuration list for PBXNativeTarget "Trekr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				093B85472A19204300428093 /* Debug */,
