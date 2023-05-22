@@ -3,7 +3,7 @@
 //  Trekr
 //
 //  Created by Даниил Смирнов on 20.05.2023.
-// app
+//  Created app
 
 import SwiftUI
 
